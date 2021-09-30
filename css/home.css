@@ -1,0 +1,140 @@
+body{
+    background-color: #d6cfcf;
+}
+.top-sec{
+    background:linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(../img/w3.jpg) ;
+    background-size:cover;
+    height:600px;
+    
+
+
+}
+
+.top-h1{
+    padding-top: 200px;
+    padding-left: 10px;
+    font-family:fantasy;
+    font-size: 70;
+    color: white;
+}
+.top-h2{
+    color: white;
+    padding:10px
+}
+.navbar{
+    transition: all 1s;
+    
+}
+.nav-link{
+    color:white;
+    font-family:fantasy;
+    font-size: 20px;
+}
+.nav-link:hover{
+    color:#32a852;
+}
+.book-btn{
+    background-color: black;
+    border-radius: 15px;
+    margin-left: 60px;
+    padding:5px;
+    height: 50px;
+    width: 150px;
+    border-color: black;
+    box-shadow: 5px 5px #ffffff;
+}
+.book-l{
+    text-decoration: none;
+    color:white;
+    font-family:fantasy;
+    font-size: 22;
+
+
+}
+.book-l:hover{
+    text-decoration: none;
+    color:black;
+
+}
+.book-btn:hover{
+    background-color:white;
+    border-color: white;
+
+}
+.story{
+margin-top: 150px;
+margin-bottom: 150px;
+
+color: black;
+font-family:fantasy;
+}
+.story p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* ************************ menu********************* */
+.menu{
+    background-image: linear-gradient( rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5) ),url(../img/men-ba.jpg);
+
+}
+.menu-title{
+    color: black;
+    font-family: fantasy;
+}
+.card-deck{
+    margin-top:40px;
+}
+.card-img-top{
+    height: 200px;
+}
+.card-title{
+    color: black;
+    text-align: center;
+
+}
+.card-text{
+    color: rgb(250, 41, 14);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.btn-primary {
+    background-color: black;
+    border-color: black;
+    font-family: fantasy
+
+}
+.btn-primary:hover{
+    background-color:green;
+    border-color: white;
+}
+.menu-bt{
+    margin: 50px;
+}
+
+/* **************footer*********** */
+.footer{
+    background-color: black;
+    font-family: fantasy;
+    padding-top: 10px;
+}
+.footer h3{
+    color: white;
+   
+}
+
+.icon{
+    display: inline;
+    width:25px;
+    margin: 5px;
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    padding: 7px;
+    color: white;
+
+}
+.btn-success{
+    margin-left: 700px;
+}

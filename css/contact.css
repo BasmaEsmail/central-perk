@@ -1,0 +1,113 @@
+body{
+    background-color: #d6cfcf;
+}
+.navbar{
+    transition: all 1s;
+    
+}
+.nav-link{
+    font-family: fantasy;
+    color: black;
+    font-size: 20px;
+
+
+}
+.nav-link:hover{
+    color:#32a852;
+}
+.btn-success{
+    margin-left: 700px;
+}
+.first{
+    color: black;
+    height: 800px;
+    font-family:fantasy;
+    font-size: 60px;
+    background-color: #d6cfcf;
+   
+
+
+}
+.para{
+    margin-top: 100px;
+}
+.second{
+    background-color: #d6cfcf;
+
+}
+form{
+    background-color: rgb(255,255,255,0.7);
+    margin-top: 100px;
+    margin-right: 20px;
+    border-radius: 2%;
+    width: 75%;
+
+}
+.form-group{
+    padding-top: 15px;
+    font-family: fantasy;
+    color: black;
+}
+input{
+    width:50%;
+    border-width:0px 0px 1px 0px;
+    margin: 20px;
+    background: transparent;
+
+}
+input:focus{
+    outline: none;
+    background-color: white;
+    border-width: 2px;
+}
+textarea{
+    width:50%;
+    border-width: 1px;
+    resize: none;
+    margin: 20px;
+    background: transparent;
+
+}
+textarea:focus{
+    background-color: white;
+    outline: none;
+
+}
+
+.footer{
+    background-color: black;
+    font-family: fantasy;
+        padding-top: 10px;
+
+}
+.footer h3{
+    color: white;
+   
+}
+.icon{
+    display: inline;
+    width:25px;
+    margin: 5px;
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    padding: 7px;
+    color: white;
+
+}
+button{
+    background-color: rgb(61, 141, 61);
+    color: white;
+    border-radius: 10%;
+    border-width: 1px;
+    border-color:rgb(61, 141, 61) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+button img{
+    width: 30px;
+}
+

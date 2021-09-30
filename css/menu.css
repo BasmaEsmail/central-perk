@@ -1,0 +1,79 @@
+/* @font-face {
+    font-family: 'Ultra';
+    src: url(/Ultra-Regular.ttf);
+}*/
+
+body{
+    background-color: #d6cfcf;
+}
+.navbar{
+    transition: all 1s;
+    
+}
+.nav-link{
+    color: black;
+    font-family:fantasy;
+    font-size: 20px;
+
+}
+.nav-link:hover{
+    color:#32a852;
+}
+/**/
+.card-deck{
+    margin-top:90px
+}
+
+.btn-primary{
+    background-color: black;
+    border-color: black;
+    font-family: fantasy
+
+}
+.btn-primary:hover{
+    background-color:green;
+    border-color: white;
+}
+.card-img-top{
+    height: 200px;
+}
+.card-title{
+    color: black;
+    text-align: center;
+
+}
+.card-text{
+    color: rgb(250, 41, 14);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.btn-success{
+    margin-left: 700px;    
+}
+
+.footer{
+    margin-top:50px;
+    background-color: black;
+    font-family: fantasy;
+    padding-top: 10px;
+
+}
+.footer h3{
+    color: white;
+   
+}
+
+.icon{
+    display: inline;
+    width:25px;
+    margin: 5px;
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    padding: 7px;
+    color: white;
+
+}

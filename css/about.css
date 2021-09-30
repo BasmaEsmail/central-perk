@@ -1,0 +1,79 @@
+body{
+    background-color: #d6cfcf;
+}
+/* navbar */ 
+.navbar{
+    transition: all 1s;
+    
+}
+.nav-link{
+    color:black;
+    font-family:fantasy;
+    font-size: 20px;
+
+}
+.nav-link:hover{
+    color:#32a852;
+}
+.btn-success{
+    margin-left: 700px;
+}
+/* slider*/
+.carousel{
+    margin: 100px;
+    
+}
+
+/* about us */
+.story{
+    margin-top:120px;
+    color: black;
+    font-size: 18px;
+}
+.col-sm h2{
+    font-family: fantasy;
+}
+/* staff*/
+.staff h2{
+    margin-top: 100px;
+    color: black;
+    font-family: fantasy;
+}
+.card-deck{
+    margin-top:40px;
+}
+.card-img-top{
+    height: 250px;
+}
+.card-title{
+    color: black;
+    text-align: center;
+
+}
+
+/* **************footer*********** */
+.footer{
+    background-color: black;
+    font-family: fantasy;
+    margin-top: 100px;
+    padding-top: 10px;
+
+}
+.footer h3{
+    color: white;
+   
+}
+
+.icon{
+    display: inline;
+    width:25px;
+    margin: 5px;
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    padding: 7px;
+    color: white;
+
+}
